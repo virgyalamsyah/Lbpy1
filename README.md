@@ -1,12 +1,12 @@
 # labpy1
-![foto1](https://raw.githubusercontent.com/virgyalamsyah/labpy1/master/ScreenShot%201.jpg)
+![foto1](https://raw.githubusercontent.com/virgyalamsyah/lbpy1/master/tugas.png)
 1. Inputkan angka di bilangan ke-1
 2. Inputkan angka di bilangan ke-2
 3. Inputkan angka di bilangan ke-3
 4. Secara otomatis akan mensortir bilangan yang terbesar dan terkecil
 5. ingin coba lagi(ya/tidak)
 6. ketik "ya" untuk melanjutkan dan ketik "tidak" untuk mengakhiri
-![foto2](https://raw.githubusercontent.com/virgyalamsyah/labpy1/master/ScreenShot.jpg)
+![foto2](https://raw.githubusercontent.com/virgyalamsyah/lbpy1/master/Untitled.png)
 1.a=int(input('Bilangan ke-1 = '))
 	(Masukkan bilangan ke-1)
 2.b=int(input('Bilangan ke-2 = '))
